@@ -4,7 +4,7 @@ smallest = None
 largest = None
 
 while True:
-    sval = input('Enter a number: ') # stringvalue    
+    sval = input('Enter a number: ') # string value    
     
     if sval == 'done':
         break 
